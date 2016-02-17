@@ -6,15 +6,26 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 17 Feb 2016 11:54:45 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 11:54:45 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 16:10:32 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 16:10:32 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl</url>
-      <link>http://static3.persgroep.net/volkskrant/static/img/logos/rss_logo.png?r=ae461494.xyz</link>
+      <link>http://static3.persgroep.net/volkskrant/static/img/logos/rss_logo.png?r=f3e9e2e4</link>
       <width>16</width>
       <height>16</height>
     </image>
+    <item>
+      <title>Indonesië blokkeert nu ook Tumblr, want er staat porno op</title>
+      <link>http://www.volkskrant.nl/buitenland/indonesie-blokkeert-nu-ook-tumblr-want-er-staat-porno-op~a4246635/</link>
+      <description>Indonesië heeft het populaire blogplatform Tumblr geblokkeerd, omdat er pornografisch getint materiaal op staat. Die beslissing is gemaakt zonder de eigenaar van Tumblr, het Amerikaanse bedrijf Yahoo, daarvan op de hoogte te stellen. 'We moeten de site eerst blokkeren, en het daarna pas laten weten', aldus Azhar Hasyim van het Indonesische ministerie van Informatie tegenover de BBC. Tumblr staat h</description>
+      <pubDate>Wed, 17 Feb 2016 15:25:00 GMT</pubDate>
+      <author>Door: Thomas van der Kolk</author>
+      <guid isPermaLink="false">4246635</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/67230789-4edb-4fa7-9df0-f5aaa74cc206?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/67230789-4edb-4fa7-9df0-f5aaa74cc206?width=397&amp;height=289" />
+      </media:content>
+    </item>
     <item>
       <title>'Nextdoor laat mensen praten met hun buren'</title>
       <link>http://www.volkskrant.nl/economie/-nextdoor-laat-mensen-praten-met-hun-buren~a4246096/</link>
@@ -82,17 +93,6 @@
       </media:content>
     </item>
     <item>
-      <title>De Volkskrant tv-selectie voor 16 februari</title>
-      <link>http://www.volkskrant.nl/televisie/de-volkskrant-tv-selectie-voor-16-februari~a4245264/</link>
-      <description>Elke dag tipt de redactie van de Volkskrant de beste programma's en films op televisie. Dit moet u vandaag kijken. SBS 6, 20.00 uurIn de achtste finale van de Champions League bezoekt Chelsea Paris Saint-Germain. De Londenaren maken in de eigen competitie geen kans meer op het kampioenschap maar hopen het seizoen internationaal nog glans te geven. NPO 2, 20.25 uurDe komende weken horen 200 duizend</description>
-      <pubDate>Tue, 16 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Redactie</author>
-      <guid isPermaLink="false">4245264</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/016c199b-0a4e-4ad1-8ef3-1673aaef9dab?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/016c199b-0a4e-4ad1-8ef3-1673aaef9dab?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Duitse journalisten, scheidsrechters van democratie</title>
       <link>http://www.volkskrant.nl/buitenland/duitse-journalisten-scheidsrechters-van-democratie~a4245374/</link>
       <description>Een op de vijf Duitsers gelooft zijn eigen media niet meer. Omdat het rechts-populistische geluid zo lang werd genegeerd, denken ingewijden. Maar de pers komt tot inkeer. Kai Gniffke foetert zachtjes tegen zijn beeldscherm. Het is de ochtend van het treinongeluk in Beieren en het live-blog daarover had wel wat sneller online gemogen. De hoofdredacteur van de Tagesschau, het journaal van de Duitse</description>
@@ -101,6 +101,17 @@
       <guid isPermaLink="false">4245374</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/d92d474e-030d-4bf0-87f3-904a866a5299?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/d92d474e-030d-4bf0-87f3-904a866a5299?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>De Volkskrant tv-selectie voor 16 februari</title>
+      <link>http://www.volkskrant.nl/televisie/de-volkskrant-tv-selectie-voor-16-februari~a4245264/</link>
+      <description>Elke dag tipt de redactie van de Volkskrant de beste programma's en films op televisie. Dit moet u vandaag kijken. SBS 6, 20.00 uurIn de achtste finale van de Champions League bezoekt Chelsea Paris Saint-Germain. De Londenaren maken in de eigen competitie geen kans meer op het kampioenschap maar hopen het seizoen internationaal nog glans te geven. NPO 2, 20.25 uurDe komende weken horen 200 duizend</description>
+      <pubDate>Tue, 16 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Redactie</author>
+      <guid isPermaLink="false">4245264</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/016c199b-0a4e-4ad1-8ef3-1673aaef9dab?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/016c199b-0a4e-4ad1-8ef3-1673aaef9dab?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -302,17 +313,6 @@
       </media:content>
     </item>
     <item>
-      <title>In een Batman-T-shirt 250 man regisseren</title>
-      <link>http://www.volkskrant.nl/film/in-een-batman-t-shirt-250-man-regisseren~a4242977/</link>
-      <description>De BBC-serie War and Peace, vanaf zondag in Nederland te zien, was een hit in Engeland. Het geheim van de scenarist: zo veel Tolstoj weglaten dat het pijn doet. V bezocht de set in Litouwen. Een opmerkelijke ontmoeting op het slagveld van Borodino, ten westen van Moskou: een dag voordat er in september 1812 bijna 80 duizend soldaten het leven laten in de strijd tussen de Russen en de Fransen onder</description>
-      <pubDate>Fri, 12 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Haro Kraak</author>
-      <guid isPermaLink="false">4242977</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/2a795be4-30eb-4839-8276-6d6c46807188?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/2a795be4-30eb-4839-8276-6d6c46807188?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>De Volkskrant tv-selectie voor 12 februari</title>
       <link>http://www.volkskrant.nl/televisie/de-volkskrant-tv-selectie-voor-12-februari~a4243031/</link>
       <description>Elke dag tipt de redactie van de Volkskrant de beste programma's en films op televisie. Dit moet u vandaag kijken. Opening Jeroen BoschjaarNPO 1, 13.15 UURRechtstreeks verslag vanuit Het Noordbrabants Museum, waar koning Willem-Alexander de grote Jheronimus Bosch-expositie opent. Dionne Stax ontvangt projectleider Mathijs Ilsink van het Bosch Research and Conservation Project. I love the 90's test</description>
@@ -321,6 +321,17 @@
       <guid isPermaLink="false">4243031</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/0908e179-ea17-4ca3-92ea-3d4163818a29?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/0908e179-ea17-4ca3-92ea-3d4163818a29?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>In een Batman-T-shirt 250 man regisseren</title>
+      <link>http://www.volkskrant.nl/film/in-een-batman-t-shirt-250-man-regisseren~a4242977/</link>
+      <description>De BBC-serie War and Peace, vanaf zondag in Nederland te zien, was een hit in Engeland. Het geheim van de scenarist: zo veel Tolstoj weglaten dat het pijn doet. V bezocht de set in Litouwen. Een opmerkelijke ontmoeting op het slagveld van Borodino, ten westen van Moskou: een dag voordat er in september 1812 bijna 80 duizend soldaten het leven laten in de strijd tussen de Russen en de Fransen onder</description>
+      <pubDate>Fri, 12 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Haro Kraak</author>
+      <guid isPermaLink="false">4242977</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/2a795be4-30eb-4839-8276-6d6c46807188?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/2a795be4-30eb-4839-8276-6d6c46807188?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -441,17 +452,6 @@
       <guid isPermaLink="false">4242208</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/b5018348-f519-431b-bd60-fec609170d25?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/b5018348-f519-431b-bd60-fec609170d25?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Ik zink elk jaar dieper weg in een moeras van passwords</title>
-      <link>http://www.volkskrant.nl/tech/ik-zink-elk-jaar-dieper-weg-in-een-moeras-van-passwords~a4242198/</link>
-      <description>Ali Baba had maar één makkelijk te onthouden wachtwoord nodig om de grot van de veertig rovers te openen. Had die rots een doorsnee digitaal beveiligingssysteem gehad, dan had die rots bij de woorden 'Sesam open u' vrijwel zeker teruggeroepen: 'Zwak wachtwoord.' In de Middeleeuwen had je minnezangers die jonkvrouwen 'het wachtwoord van hun hart' probeerden te ontfutselen. Die analoge jonkvrouwen w</description>
-      <pubDate>Thu, 11 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Olaf Tempelman</author>
-      <guid isPermaLink="false">4242198</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/03289ba6-660f-44bc-848a-a1de8e41edf7?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/03289ba6-660f-44bc-848a-a1de8e41edf7?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>

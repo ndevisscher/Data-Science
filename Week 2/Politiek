@@ -6,15 +6,26 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 17 Feb 2016 12:02:53 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 12:02:53 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 16:22:55 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 16:22:55 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl</url>
-      <link>http://static3.persgroep.net/volkskrant/static/img/logos/rss_logo.png?r=ae461494.xyz</link>
+      <link>http://static3.persgroep.net/volkskrant/static/img/logos/rss_logo.png?r=f3e9e2e4</link>
       <width>16</width>
       <height>16</height>
     </image>
+    <item>
+      <title>Het Binnenhof: 17 februari</title>
+      <link>http://www.volkskrant.nl/politiek/het-binnenhof-17-februari~a4246575/</link>
+      <description>Uw politieke nieuwsbrief Goedemiddag. Turkije speelt met Europa. En premier Rutte laat zich piepelen.Het is nou eens niet Geert Wilders die het zegt, maar CDA-leider Buma. Het tekent het snel oplopende ongeduld in de Kamer, aan de vooravond van de Europese top.En intussen probeert Lil' Kleine te profiteren van de populariteit van Martin van Rijn.Hier zijn uw Dagkoersen. DEBAT VAN DE DAGHet CDA op</description>
+      <pubDate>Wed, 17 Feb 2016 13:24:00 GMT</pubDate>
+      <author>Door: Raoul du Pré</author>
+      <guid isPermaLink="false">4246575</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/3600a12b-b9cc-4c4c-a30b-651540cac26c?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/3600a12b-b9cc-4c4c-a30b-651540cac26c?width=397&amp;height=289" />
+      </media:content>
+    </item>
     <item>
       <title>Tweede Kamer: standaard in gemeenschap van goederen trouwen moet stoppen</title>
       <link>http://www.volkskrant.nl/binnenland/tweede-kamer-standaard-in-gemeenschap-van-goederen-trouwen-moet-stoppen~a4246409/</link>
@@ -441,17 +452,6 @@
       <guid isPermaLink="false">4242202</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/566624b9-a90c-4c40-9eb2-30ffe7c347e3?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/566624b9-a90c-4c40-9eb2-30ffe7c347e3?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>VVD Weert zet raadslid verdacht van mishandeling uit fractie</title>
-      <link>http://www.volkskrant.nl/binnenland/vvd-weert-zet-raadslid-verdacht-van-mishandeling-uit-fractie~a4242196/</link>
-      <description>Gemeenteraadslid Rolf Zincken van de lokale VVD in Weert is door zijn partij uit de fractie gezet. December vorig jaar werd hij op non-actief gesteld nadat hij tijdens een feest in de Limburgse stad een man ernstig had mishandeld. De VVD beëindigt de samenwerking omdat Zincken zijn handelen zou rechtvaardigen. Aanvankelijk wilde de lokale VVD Zincken niet gelijk laten vallen. Na meermaals overleg</description>
-      <pubDate>Wed, 10 Feb 2016 16:49:00 GMT</pubDate>
-      <author>Door: Redactie</author>
-      <guid isPermaLink="false">4242196</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/02cb6a33-7a8f-44a3-8777-fdca8349114c?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/02cb6a33-7a8f-44a3-8777-fdca8349114c?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>

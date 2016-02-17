@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 17 Feb 2016 09:04:07 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 09:04:07 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 11:55:34 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 11:55:34 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl</url>
@@ -15,6 +15,16 @@
       <width>16</width>
       <height>16</height>
     </image>
+    <item>
+      <title>Lavezzi verruilt PSG voor China</title>
+      <link>http://www.volkskrant.nl/sport/lavezzi-verruilt-psg-voor-china~a4246454/</link>
+      <description>Ezequiel Lavezzi vertrekt bij Paris Saint-Germain. De Argentijn kiest voor een lucratief avontuur in de Chinese Super League bij Hebei China Fortune. Lavezzi kon in Parijs niet rekenen op een basisplaats. In het Champions Leagueduel met Chelsea behoorde de aanvaller gisteren niet eens tot de wedstrijdselectie. Hoeveel Hebei betaalt voor de 30-jarige international van Argentinië, is onbekend. Zijn</description>
+      <pubDate>Wed, 17 Feb 2016 09:51:00 GMT</pubDate>
+      <guid isPermaLink="false">4246454</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/65bfcd04-d961-41b8-b2dc-af92008ed6ab?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/65bfcd04-d961-41b8-b2dc-af92008ed6ab?width=397&amp;height=289" />
+      </media:content>
+    </item>
     <item>
       <title>Toptrainer met zelfspot die van zich af kan bijten</title>
       <link>http://www.volkskrant.nl/sport/toptrainer-met-zelfspot-die-van-zich-af-kan-bijten~a4246029/</link>
@@ -440,17 +450,6 @@
       <guid isPermaLink="false">4244512</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/1e74eca0-c427-4168-b2c1-a65d6121b893?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/1e74eca0-c427-4168-b2c1-a65d6121b893?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Feyenoord incasseert bij PEC zevende nederlaag op rij</title>
-      <link>http://www.volkskrant.nl/sport/feyenoord-incasseert-bij-pec-zevende-nederlaag-op-rij~a4244511/</link>
-      <description>'Schaam je kapot', klonk het tien minuten voor het einde uit het vak met meegereisde Feyenoord-supporters tijdens de wedstrijd tegen PEC. De Rotterdammers klommen ook in Zwolle niet uit het diepe dal waarin ze momenteel verkeren. PEC won met 3-1. Trainer Giovanni van Bronckhorst zoekt al weken naarstig naar een manier om de historische reeks nederlagen van Feyenoord een halt toe te roepen. Sinds d</description>
-      <pubDate>Sun, 14 Feb 2016 15:25:00 GMT</pubDate>
-      <author>Door: Chris Meijer, ANP</author>
-      <guid isPermaLink="false">4244511</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/ee49a81f-ba28-4de6-bc54-1f75d410a40a?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/ee49a81f-ba28-4de6-bc54-1f75d410a40a?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>

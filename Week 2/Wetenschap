@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 17 Feb 2016 09:13:29 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 09:13:29 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 11:56:03 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 11:56:03 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl</url>
@@ -16,14 +16,25 @@
       <height>16</height>
     </image>
     <item>
-      <title>'Euthanasie is voor jonge mensen vaak niet bespreekbaar'</title>
-      <link>http://www.volkskrant.nl/magazine/-euthanasie-is-voor-jonge-mensen-vaak-niet-bespreekbaar~a4245999/</link>
-      <description>De 30-jarige Wendy Bax heeft een NVVE-afdeling opgericht die jongeren voorlicht over euthanasie. Dat was hard nodig: tweeduizend jongeren zochten al contact. Zelf weet Bax nu vijf jaar dat ze ongeneeslijk ziek is. Wendy Bax staat voor de deur van een regiobijeenkomst in Doetinchem van de Nederlandse Vereniging voor een Vrijwillig Levenseinde, de NVVE. Ze is 25 jaar, al drie jaar ziek en heeft net</description>
-      <pubDate>Wed, 17 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Hester Ramaker</author>
-      <guid isPermaLink="false">4245999</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/5f5dd2d4-ed86-4a29-8c3e-16306baafa07?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/5f5dd2d4-ed86-4a29-8c3e-16306baafa07?width=397&amp;height=289" />
+      <title>VN: 50 miljoen nodig voor bestrijding zikavirus</title>
+      <link>http://www.volkskrant.nl/wetenschap/vn-50-miljoen-nodig-voor-bestrijding-zikavirus~a4246500/</link>
+      <description>De Wereldgezondheidsorganisatie heeft voor de strijd tegen het zikavirus tot en met juni ruim 50 miljoen euro (56 miljoen dollar) nodig. Dat maakte de gezondheidsorganisatie van de Verenigde Naties woensdag bekend. Het geld is onder andere nodig voor het ontwikkelen van een vaccin en het stellen van diagnoses. Op dit moment is het virus opgedoken in 39 landen. Deskundigen hebben besmetting met het</description>
+      <pubDate>Wed, 17 Feb 2016 11:41:00 GMT</pubDate>
+      <author>Door: Redactie</author>
+      <guid isPermaLink="false">4246500</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/f1591694-1396-4c6b-b2f8-3cdb186c8608?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/f1591694-1396-4c6b-b2f8-3cdb186c8608?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Astronomen zien voor het eerst dampkring verre superaarde</title>
+      <link>http://www.volkskrant.nl/wetenschap/astronomen-zien-voor-het-eerst-dampkring-verre-superaarde~a4246510/</link>
+      <description>Voor het eerst is het astronomen gelukt om de dampkring te bekijken van een 'superaarde', een fors uitgevallen aarde rondom een andere zon. Dat is een belangrijk tussenstation op weg naar de grote klapper: een 'echte' tweede aarde in een ander zonnestelsel bestuderen. De dampkring van de superaarde, een object genaamd 55 Cancri e, bestaat uit helium, stikstof en een snufje blauwzuur. Niet geschikt</description>
+      <pubDate>Wed, 17 Feb 2016 11:13:00 GMT</pubDate>
+      <author>Door: Maarten Keulemans</author>
+      <guid isPermaLink="false">4246510</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/22184d1a-0536-4068-8d87-6ad956575a0c?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/22184d1a-0536-4068-8d87-6ad956575a0c?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -35,6 +46,17 @@
       <guid isPermaLink="false">4246050</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/faa47ff3-6b85-48b1-82df-d085d9d7602d?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/faa47ff3-6b85-48b1-82df-d085d9d7602d?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Euthanasie is voor jonge mensen vaak niet bespreekbaar'</title>
+      <link>http://www.volkskrant.nl/magazine/-euthanasie-is-voor-jonge-mensen-vaak-niet-bespreekbaar~a4245999/</link>
+      <description>De 30-jarige Wendy Bax heeft een NVVE-afdeling opgericht die jongeren voorlicht over euthanasie. Dat was hard nodig: tweeduizend jongeren zochten al contact. Zelf weet Bax nu vijf jaar dat ze ongeneeslijk ziek is. Wendy Bax staat voor de deur van een regiobijeenkomst in Doetinchem van de Nederlandse Vereniging voor een Vrijwillig Levenseinde, de NVVE. Ze is 25 jaar, al drie jaar ziek en heeft net</description>
+      <pubDate>Wed, 17 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Hester Ramaker</author>
+      <guid isPermaLink="false">4245999</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/5f5dd2d4-ed86-4a29-8c3e-16306baafa07?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/5f5dd2d4-ed86-4a29-8c3e-16306baafa07?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -431,28 +453,6 @@
       <guid isPermaLink="false">4243424</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/72e4c22d-8016-4872-91a8-0fef73485f83?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/72e4c22d-8016-4872-91a8-0fef73485f83?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>WHO: test zika-vaccin duurt nog anderhalf jaar</title>
-      <link>http://www.volkskrant.nl/wetenschap/who-test-zika-vaccin-duurt-nog-anderhalf-jaar~a4243466/</link>
-      <description>De Wereldgezondheidsorganisatie van de Verenigde Naties denkt dat het nog achttien maanden kan duren voordat werkzame vaccins tegen het zika-virus op mensen kunnen worden getest. Dat heeft Marie-Paule Kieny, assistent-directeur-generaal van de WHO voor Gezondheidssystemen en Innovatie, vrijdag gezegd. Twee middelen, een Amerikaans dna-vaccin en een product uit India, maken volgens Kieny de meeste</description>
-      <pubDate>Fri, 12 Feb 2016 13:20:00 GMT</pubDate>
-      <author>Door: Redactie</author>
-      <guid isPermaLink="false">4243466</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/b0373e29-06de-4c01-beed-e5b56736c3e9?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/b0373e29-06de-4c01-beed-e5b56736c3e9?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Ruimtevaart geeft hoop op herstel lander Philae op</title>
-      <link>http://www.volkskrant.nl/wetenschap/ruimtevaart-geeft-hoop-op-herstel-lander-philae-op~a4243438/</link>
-      <description>Berichten over zijn dood bleken toch niet schromelijk overdreven. De tijd is gekomen afscheid te nemen van komeetlander Philae, zegt nu ook de missieleiding van het ruimte-avontuur. De wetenschappers die aan het roer staan van de Rosettamissie hebben vandaag verklaard geen hoop meer te hebben dat het contact met de lander nog wordt hersteld. Philae, die in 2014 op komeet 67P/Churyumov-Gerasimenko</description>
-      <pubDate>Fri, 12 Feb 2016 10:49:00 GMT</pubDate>
-      <author>Door: Bard van de Weijer</author>
-      <guid isPermaLink="false">4243438</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/3cb7fcdd-47c8-48ff-afd5-3b7a1ccac927?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/3cb7fcdd-47c8-48ff-afd5-3b7a1ccac927?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>

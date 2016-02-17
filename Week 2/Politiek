@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 17 Feb 2016 09:14:37 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 09:14:37 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 12:02:53 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 12:02:53 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl</url>
@@ -15,6 +15,17 @@
       <width>16</width>
       <height>16</height>
     </image>
+    <item>
+      <title>Tweede Kamer: standaard in gemeenschap van goederen trouwen moet stoppen</title>
+      <link>http://www.volkskrant.nl/binnenland/tweede-kamer-standaard-in-gemeenschap-van-goederen-trouwen-moet-stoppen~a4246409/</link>
+      <description>Trouwen zou niet meer standaard in gemeenschap van goederen moeten gaan. Als stellen toch op deze manier willen trouwen, moeten ze dit zelf bij de notaris laten vastleggen. Dat wil een meerderheid van de Tweede Kamer. PvdA, D66 en VVD hebben een wetsvoorstel ingediend voor het stopzetten van het standaard in gemeenschap van goederen trouwen. Dat houdt in dat bezittingen die mensen al hadden voor z</description>
+      <pubDate>Wed, 17 Feb 2016 08:53:00 GMT</pubDate>
+      <author>Door: Ronja Kool</author>
+      <guid isPermaLink="false">4246409</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/bddb593d-290d-49c2-bfa3-34bb8d271697?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/bddb593d-290d-49c2-bfa3-34bb8d271697?width=397&amp;height=289" />
+      </media:content>
+    </item>
     <item>
       <title>Ja-stem blokkeert Russische 'verdeel en heers'-reflex</title>
       <link>http://www.volkskrant.nl/opinie/ja-stem-blokkeert-russische-verdeel-en-heers-reflex~a4245975/</link>
@@ -441,17 +452,6 @@
       <guid isPermaLink="false">4242196</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/02cb6a33-7a8f-44a3-8777-fdca8349114c?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/02cb6a33-7a8f-44a3-8777-fdca8349114c?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Het Binnenhof: 10 februari</title>
-      <link>http://www.volkskrant.nl/politiek/het-binnenhof-10-februari~a4242138/</link>
-      <description>Uw politieke nieuwsbrief Goedemiddag. De Tweede Kamer sprak vandaag over Nederlandse bommen op Syrië. Eén ding is zeker: dit keer geen 'caveats'. De premier ontving tegelijkertijd zijn Turkse collega Davutoglu en sprak ook met hem over Syrië. Ondertussen maakt Rutte zich op voor zijn debuut als stand-up-comedian. Hier zijn uw dagkoersen. Wilt u deze nieuwsbrief dagelijks per mail ontvangen? Schrij</description>
-      <pubDate>Wed, 10 Feb 2016 15:07:00 GMT</pubDate>
-      <author>Door: Joost de Vries</author>
-      <guid isPermaLink="false">4242138</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/18adc8af-e73a-42c2-aed4-2bf1ffa7f217?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/18adc8af-e73a-42c2-aed4-2bf1ffa7f217?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>

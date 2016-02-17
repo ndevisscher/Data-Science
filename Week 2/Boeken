@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 17 Feb 2016 09:10:34 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 09:10:34 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 11:58:16 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 11:58:16 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl</url>
@@ -27,17 +27,6 @@
       </media:content>
     </item>
     <item>
-      <title>Indruk maken op de meisjes</title>
-      <link>http://www.volkskrant.nl/boeken/indruk-maken-op-de-meisjes~a4245924/</link>
-      <description>Wolkers' allereerste gedicht, vol bravoure, romantiek en verbeelding, was bedoeld om indruk te maken op de meisjes. Voor Jan Wolkers één stap in Parijs had gezet, had hij al in de stad gewoond. Dat zat zo. Als 16-jarige jongen schreef hij zijn allereerste echte gedicht. Een sonnet. De kneepjes van het sonnet had Jan afgekeken van Jacques Perk, wiens Gedichten hij bij Haaxman, de plaatselijke boekh</description>
-      <pubDate>Wed, 17 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Onno Blom</author>
-      <guid isPermaLink="false">4245924</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/f015629d-6dfe-4f89-b6ec-10209f6ba283?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/f015629d-6dfe-4f89-b6ec-10209f6ba283?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Van thuiszorgtopman tot thrillerschrijver</title>
       <link>http://www.volkskrant.nl/opinie/van-thuiszorgtopman-tot-thrillerschrijver~a4246121/</link>
       <description>Waarom een belaagde thuiszorgtopman nu thrillers schrijft Van de weeromstuit is Daan van de Meeberg thrillers gaan schrijven, en in rap tempo ook. Drie titels in een jaar, vierhonderd pagina's-plus en niet over lichte onderwerpen. Aanslag in de Tweede Kamer, terrorisme in de Schipholtunnel, buitenaardse wezens in Scheveningen. Doel van dit gesprek is tweeledig, zegt hij: 'Ik hoop dat ik meer boeke</description>
@@ -46,6 +35,17 @@
       <guid isPermaLink="false">4246121</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/b4958ff3-a0f4-4f47-8be2-92df3e7e0e89?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/b4958ff3-a0f4-4f47-8be2-92df3e7e0e89?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Indruk maken op de meisjes</title>
+      <link>http://www.volkskrant.nl/boeken/indruk-maken-op-de-meisjes~a4245924/</link>
+      <description>Wolkers' allereerste gedicht, vol bravoure, romantiek en verbeelding, was bedoeld om indruk te maken op de meisjes. Voor Jan Wolkers één stap in Parijs had gezet, had hij al in de stad gewoond. Dat zat zo. Als 16-jarige jongen schreef hij zijn allereerste echte gedicht. Een sonnet. De kneepjes van het sonnet had Jan afgekeken van Jacques Perk, wiens Gedichten hij bij Haaxman, de plaatselijke boekh</description>
+      <pubDate>Wed, 17 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Onno Blom</author>
+      <guid isPermaLink="false">4245924</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/f015629d-6dfe-4f89-b6ec-10209f6ba283?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/f015629d-6dfe-4f89-b6ec-10209f6ba283?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -60,12 +60,23 @@
       </media:content>
     </item>
     <item>
-      <title>Geraffineerd vlecht Mensje van Keulen de gebeurtenissen uit verleden en heden in elkaar</title>
-      <link>http://www.volkskrant.nl/recensies/geraffineerd-vlecht-mensje-van-keulen-de-gebeurtenissen-uit-verleden-en-heden-in-elkaar~a4243692/</link>
-      <description>Een villa in het chique Amsterdam-Zuid waarin een galeriehoudster woont, samen met haar man - een succesvolle notaris - en hun slimme, blonde dochter. Nou, dan weet je het wel: daar moet van alles mis zijn. Zeker als het Mensje van Keulen (1946) is die deze kaarten schudt, in een boek dat de titel Schoppenvrouw draagt. Wie het gelijknamige verhaal van Poesjkin kent, voelt het onheil al naderen.En</description>
+      <title>Tussen de koddigheden schuilt iets moois</title>
+      <link>http://www.volkskrant.nl/recensies/tussen-de-koddigheden-schuilt-iets-moois~a4243498/</link>
+      <description>Naamloos heet het romandebuut van de rapper/tekstschrijver van De jeugd van tegenwoordig, Pepijn Lanen (1982), alias Faberyayo, alias Le Le. Dat lijkt een luie grap, zo'n ironische titel. Vergelijkbaar met Boek door Robert van Eijden, die vorig jaar debuteerde en met wie Lanen meer gemeen heeft. Misschien dat het in aanvang ook niet meer geweest is dan een gebbetje, maar uiteindelijk is het de mee</description>
       <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Bo van Houwelingen</author>
-      <guid isPermaLink="false">4243692</guid>
+      <author>Door: Daniëlle Serdijn</author>
+      <guid isPermaLink="false">4243498</guid>
+    </item>
+    <item>
+      <title>Knausgård wil van overtollige lezers af</title>
+      <link>http://www.volkskrant.nl/boeken/knausgard-wil-van-overtollige-lezers-af~a4243462/</link>
+      <description>Een schrijver wil gelezen worden, maar onder te veel lezers kun je bezwijken. Arjan Peters vermoedt na lezing van de nieuwe Karl Ove dat die zijn roem een halt wil toeroepen. In de zomer van 2014 stuurden de vrienden Karl Ove Knausgård en Frederik Ekelund elkaar lange e-mails, tijdens en over het WK voetbalkampioenschap in Brazilië. Ze kijken naar de wedstrijden - Karl Ove thuis in Zweden op de tv</description>
+      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Arjan Peters</author>
+      <guid isPermaLink="false">4243462</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/2c6e6c20-80b9-48ee-b50b-2a635c2f8328?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/2c6e6c20-80b9-48ee-b50b-2a635c2f8328?width=397&amp;height=289" />
+      </media:content>
     </item>
     <item>
       <title>Subtiele en gewaagde roman over een hechting zo broos als een spinnenweb</title>
@@ -87,23 +98,12 @@
       </media:content>
     </item>
     <item>
-      <title>Knausgård wil van overtollige lezers af</title>
-      <link>http://www.volkskrant.nl/boeken/knausgard-wil-van-overtollige-lezers-af~a4243462/</link>
-      <description>Een schrijver wil gelezen worden, maar onder te veel lezers kun je bezwijken. Arjan Peters vermoedt na lezing van de nieuwe Karl Ove dat die zijn roem een halt wil toeroepen. In de zomer van 2014 stuurden de vrienden Karl Ove Knausgård en Frederik Ekelund elkaar lange e-mails, tijdens en over het WK voetbalkampioenschap in Brazilië. Ze kijken naar de wedstrijden - Karl Ove thuis in Zweden op de tv</description>
+      <title>Geraffineerd vlecht Mensje van Keulen de gebeurtenissen uit verleden en heden in elkaar</title>
+      <link>http://www.volkskrant.nl/recensies/geraffineerd-vlecht-mensje-van-keulen-de-gebeurtenissen-uit-verleden-en-heden-in-elkaar~a4243692/</link>
+      <description>Een villa in het chique Amsterdam-Zuid waarin een galeriehoudster woont, samen met haar man - een succesvolle notaris - en hun slimme, blonde dochter. Nou, dan weet je het wel: daar moet van alles mis zijn. Zeker als het Mensje van Keulen (1946) is die deze kaarten schudt, in een boek dat de titel Schoppenvrouw draagt. Wie het gelijknamige verhaal van Poesjkin kent, voelt het onheil al naderen.En</description>
       <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Arjan Peters</author>
-      <guid isPermaLink="false">4243462</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/2c6e6c20-80b9-48ee-b50b-2a635c2f8328?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/2c6e6c20-80b9-48ee-b50b-2a635c2f8328?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Tussen de koddigheden schuilt iets moois</title>
-      <link>http://www.volkskrant.nl/recensies/tussen-de-koddigheden-schuilt-iets-moois~a4243498/</link>
-      <description>Naamloos heet het romandebuut van de rapper/tekstschrijver van De jeugd van tegenwoordig, Pepijn Lanen (1982), alias Faberyayo, alias Le Le. Dat lijkt een luie grap, zo'n ironische titel. Vergelijkbaar met Boek door Robert van Eijden, die vorig jaar debuteerde en met wie Lanen meer gemeen heeft. Misschien dat het in aanvang ook niet meer geweest is dan een gebbetje, maar uiteindelijk is het de mee</description>
-      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Daniëlle Serdijn</author>
-      <guid isPermaLink="false">4243498</guid>
+      <author>Door: Bo van Houwelingen</author>
+      <guid isPermaLink="false">4243692</guid>
     </item>
     <item>
       <title>Grillige, virtuoze roman</title>
@@ -114,23 +114,23 @@
       <guid isPermaLink="false">4243489</guid>
     </item>
     <item>
-      <title>Zinderende omslagen</title>
-      <link>http://www.volkskrant.nl/recensies/zinderende-omslagen~a4243473/</link>
-      <description>De schitterendste boekomslagen werden gemaakt in de Weimartijd door vormgevers die helemaal de vrije hand kregen. Hun werk is nu verzameld in een duizelingwekkend overzicht. 'Hoe zou het toch komen', vraagt de Duitse antiquaar en boekenverzamelaar Jürgen Holstein zich af, 'dat iedereen die ogen heeft onmiddellijk de ongelooflijke vitaliteit van boekomslagen uit de Weimartijd ziet? Ze ademen, ze la</description>
-      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Erik Van Den Berg</author>
-      <guid isPermaLink="false">4243473</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/ce0d8d1d-760d-423d-abe8-07c6a483d5b2?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/ce0d8d1d-760d-423d-abe8-07c6a483d5b2?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Schrijven voor een publiek vergt empathie</title>
       <link>http://www.volkskrant.nl/recensies/schrijven-voor-een-publiek-vergt-empathie~a4243500/</link>
       <description>Een goede schrijfstijl is 'het doelmatig gebruik van woorden om andermans geest voor zich te winnen', aldus Steven Pinker. Wees daartoe beknopt, vermijd dubbelzinnigheden en verzorg je stijl. Ofwel: betoon je hoffelijk richting je lezer, die wel wat beters te doen heeft dan door jouw taaltroep te waden. De Canadees Steven Pinker is psycholinguïst en cognitiewetenschapper, maar schrijft ook voor ee</description>
       <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
       <author>Marjan Slob</author>
       <guid isPermaLink="false">4243500</guid>
+    </item>
+    <item>
+      <title>Portret van de koning</title>
+      <link>http://www.volkskrant.nl/boeken/portret-van-de-koning~a4243716/</link>
+      <description>Er zijn schaakboeken waarop geen pion of paard te zien is. Hans Böhm wilde het anders. Een voetbalboek waarop geen bal te zien is, zoiets komt voor. Schaakboeken zonder een enkel bord in zicht, die zijn er ook. Op J.H. Donners bundel De koning (1987) is een piepklein kroontje afgedrukt, als puntje op de i. Op In den eersten stoot pat van Hans Ree (1979) lijkt een pion ook een kroontjespen. Zonder</description>
+      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Erik van den Berg</author>
+      <guid isPermaLink="false">4243716</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/90d8d04f-10c7-47fd-b92d-c528f37edbf3?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/90d8d04f-10c7-47fd-b92d-c528f37edbf3?width=397&amp;height=289" />
+      </media:content>
     </item>
     <item>
       <title>Martelaar van de wetenschap</title>
@@ -152,14 +152,14 @@
       <guid isPermaLink="false">4243496</guid>
     </item>
     <item>
-      <title>'Hopelijk lijk ik niet op mijn personages'</title>
-      <link>http://www.volkskrant.nl/boeken/-hopelijk-lijk-ik-niet-op-mijn-personages~a4243559/</link>
-      <description>Roos van Rijswijk debuteert met een roman vol 'achteloze hoogstandjes', schrijft Arjan Peters. Met vrolijke spot praat de schrijfster over haar eersteling.  Jorge, een personage in de debuutroman van Roos van Rijswijk (30), luistert het liefst naar de band Unheilig. De Duitse Jorge is 'niet helemaal goed', soms wordt hij opeens vreselijk kwaad, maar met deze vreemde muziek door de koptelefoon - hi</description>
+      <title>Zinderende omslagen</title>
+      <link>http://www.volkskrant.nl/recensies/zinderende-omslagen~a4243473/</link>
+      <description>De schitterendste boekomslagen werden gemaakt in de Weimartijd door vormgevers die helemaal de vrije hand kregen. Hun werk is nu verzameld in een duizelingwekkend overzicht. 'Hoe zou het toch komen', vraagt de Duitse antiquaar en boekenverzamelaar Jürgen Holstein zich af, 'dat iedereen die ogen heeft onmiddellijk de ongelooflijke vitaliteit van boekomslagen uit de Weimartijd ziet? Ze ademen, ze la</description>
       <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Persis Bekkering</author>
-      <guid isPermaLink="false">4243559</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/a2b76743-7491-4004-aede-c566d7715b12?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/a2b76743-7491-4004-aede-c566d7715b12?width=397&amp;height=289" />
+      <author>Erik Van Den Berg</author>
+      <guid isPermaLink="false">4243473</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/ce0d8d1d-760d-423d-abe8-07c6a483d5b2?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/ce0d8d1d-760d-423d-abe8-07c6a483d5b2?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -173,42 +173,15 @@
       </media:content>
     </item>
     <item>
-      <title>Portret van de koning</title>
-      <link>http://www.volkskrant.nl/boeken/portret-van-de-koning~a4243716/</link>
-      <description>Er zijn schaakboeken waarop geen pion of paard te zien is. Hans Böhm wilde het anders. Een voetbalboek waarop geen bal te zien is, zoiets komt voor. Schaakboeken zonder een enkel bord in zicht, die zijn er ook. Op J.H. Donners bundel De koning (1987) is een piepklein kroontje afgedrukt, als puntje op de i. Op In den eersten stoot pat van Hans Ree (1979) lijkt een pion ook een kroontjespen. Zonder</description>
+      <title>'Hopelijk lijk ik niet op mijn personages'</title>
+      <link>http://www.volkskrant.nl/boeken/-hopelijk-lijk-ik-niet-op-mijn-personages~a4243559/</link>
+      <description>Roos van Rijswijk debuteert met een roman vol 'achteloze hoogstandjes', schrijft Arjan Peters. Met vrolijke spot praat de schrijfster over haar eersteling.  Jorge, een personage in de debuutroman van Roos van Rijswijk (30), luistert het liefst naar de band Unheilig. De Duitse Jorge is 'niet helemaal goed', soms wordt hij opeens vreselijk kwaad, maar met deze vreemde muziek door de koptelefoon - hi</description>
       <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Erik van den Berg</author>
-      <guid isPermaLink="false">4243716</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/90d8d04f-10c7-47fd-b92d-c528f37edbf3?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/90d8d04f-10c7-47fd-b92d-c528f37edbf3?width=397&amp;height=289" />
+      <author>Door: Persis Bekkering</author>
+      <guid isPermaLink="false">4243559</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/a2b76743-7491-4004-aede-c566d7715b12?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/a2b76743-7491-4004-aede-c566d7715b12?width=397&amp;height=289" />
       </media:content>
-    </item>
-    <item>
-      <title>Stil verbond tussen een non en een jochie</title>
-      <link>http://www.volkskrant.nl/recensies/stil-verbond-tussen-een-non-en-een-jochie~a4243494/</link>
-      <description>Ze ziet het wel, het echte leven, al die 'amechtig voortjakkerende mensen', maar het is alsof er een dikke glasplaat tussen haar en de anderen is geschoven. En dus besluit Amaranta op haar 16de dat de wereld niet voor haar is gemaakt en trekt ze zich terug in een klooster. Niet omdat ze zo toegewijd is aan God, 'die niet tegen me spreekt, me niet troost', maar omdat ze een plek zoekt om zich te ve</description>
-      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Edwin Krijgsman</author>
-      <guid isPermaLink="false">4243494</guid>
-    </item>
-    <item>
-      <title>Het verlangen om Frans te worden</title>
-      <link>http://www.volkskrant.nl/boeken/het-verlangen-om-frans-te-worden~a4243551/</link>
-      <description>Welk boek moet de man/vrouw van de week lezen? Peter Giesen raadt Christian Piquemal, ex-commandant van het Vreemdelingenlegioen, Histoire de France van Jules Michelet aan, om te leren dat Frankrijk zich van oudsher openstelt voor vluchtelingen van goede wil. Hij ziet er uit als een echte oude stomp, een kale kop op een pezig lichaam. Christian Piquemal, ex-commandant van het Vreemdelingenlegioen,</description>
-      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Peter Giesen</author>
-      <guid isPermaLink="false">4243551</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/f6848856-a00c-4b9a-a2b3-65720d6998fc?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/f6848856-a00c-4b9a-a2b3-65720d6998fc?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Plat verhaal over complexe verkrachtingszaak</title>
-      <link>http://www.volkskrant.nl/boeken/plat-verhaal-over-complexe-verkrachtingszaak~a4243497/</link>
-      <description>Sinds Keulse vrouwen op nieuwjaarsnacht op grote schaal belaagd werden door dronken mannen met een tintje, is het gesprek over seksueel geweld niet meer verstomd. Nieuw element is dat er volop verbanden worden gelegd tussen seksueel geweld, vrouwbeelden en cultuur. Die invalshoek is raak - zelfs al zijn de motieven om zo te willen kijken soms ranzig. Een boek dat de realiteit van seksueel geweld t</description>
-      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door:</author>
-      <guid isPermaLink="false">4243497</guid>
     </item>
     <item>
       <title>Juist kinderboeken kunnen schandaal veroorzaken</title>
@@ -222,12 +195,20 @@
       </media:content>
     </item>
     <item>
-      <title>Bijzonder rijke Poolse roman die je dwingt om in de spiegel te kijken</title>
-      <link>http://www.volkskrant.nl/recensies/bijzonder-rijke-poolse-roman-die-je-dwingt-om-in-de-spiegel-te-kijken~a4243501/</link>
-      <description>Kunst is gevaarlijk, zo beweert een dronken bouwopzichter in De laatste hand, de nieuwste roman van de Poolse schrijver Wieslaw Mysliwski: 'Zij legt onze kleinheid, laagheid, gemeenheid, gemaaktheid bloot. En wat nog het ergste is van al, ze dwingt ons over onszelf na te denken, over wie we werkelijk zijn en niet wie we denken te zijn.' Na Over het doppen van bonen en Steen op steen is De laatste</description>
+      <title>Stil verbond tussen een non en een jochie</title>
+      <link>http://www.volkskrant.nl/recensies/stil-verbond-tussen-een-non-en-een-jochie~a4243494/</link>
+      <description>Ze ziet het wel, het echte leven, al die 'amechtig voortjakkerende mensen', maar het is alsof er een dikke glasplaat tussen haar en de anderen is geschoven. En dus besluit Amaranta op haar 16de dat de wereld niet voor haar is gemaakt en trekt ze zich terug in een klooster. Niet omdat ze zo toegewijd is aan God, 'die niet tegen me spreekt, me niet troost', maar omdat ze een plek zoekt om zich te ve</description>
       <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Peter Swanborn</author>
-      <guid isPermaLink="false">4243501</guid>
+      <author>Door: Edwin Krijgsman</author>
+      <guid isPermaLink="false">4243494</guid>
+    </item>
+    <item>
+      <title>Plat verhaal over complexe verkrachtingszaak</title>
+      <link>http://www.volkskrant.nl/boeken/plat-verhaal-over-complexe-verkrachtingszaak~a4243497/</link>
+      <description>Sinds Keulse vrouwen op nieuwjaarsnacht op grote schaal belaagd werden door dronken mannen met een tintje, is het gesprek over seksueel geweld niet meer verstomd. Nieuw element is dat er volop verbanden worden gelegd tussen seksueel geweld, vrouwbeelden en cultuur. Die invalshoek is raak - zelfs al zijn de motieven om zo te willen kijken soms ranzig. Een boek dat de realiteit van seksueel geweld t</description>
+      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door:</author>
+      <guid isPermaLink="false">4243497</guid>
     </item>
     <item>
       <title>Het tijdperk van de tegenwind</title>
@@ -236,6 +217,25 @@
       <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
       <author>Hans Wansink</author>
       <guid isPermaLink="false">4243481</guid>
+    </item>
+    <item>
+      <title>Bijzonder rijke Poolse roman die je dwingt om in de spiegel te kijken</title>
+      <link>http://www.volkskrant.nl/recensies/bijzonder-rijke-poolse-roman-die-je-dwingt-om-in-de-spiegel-te-kijken~a4243501/</link>
+      <description>Kunst is gevaarlijk, zo beweert een dronken bouwopzichter in De laatste hand, de nieuwste roman van de Poolse schrijver Wieslaw Mysliwski: 'Zij legt onze kleinheid, laagheid, gemeenheid, gemaaktheid bloot. En wat nog het ergste is van al, ze dwingt ons over onszelf na te denken, over wie we werkelijk zijn en niet wie we denken te zijn.' Na Over het doppen van bonen en Steen op steen is De laatste</description>
+      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Peter Swanborn</author>
+      <guid isPermaLink="false">4243501</guid>
+    </item>
+    <item>
+      <title>Het verlangen om Frans te worden</title>
+      <link>http://www.volkskrant.nl/boeken/het-verlangen-om-frans-te-worden~a4243551/</link>
+      <description>Welk boek moet de man/vrouw van de week lezen? Peter Giesen raadt Christian Piquemal, ex-commandant van het Vreemdelingenlegioen, Histoire de France van Jules Michelet aan, om te leren dat Frankrijk zich van oudsher openstelt voor vluchtelingen van goede wil. Hij ziet er uit als een echte oude stomp, een kale kop op een pezig lichaam. Christian Piquemal, ex-commandant van het Vreemdelingenlegioen,</description>
+      <pubDate>Sat, 13 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Peter Giesen</author>
+      <guid isPermaLink="false">4243551</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/f6848856-a00c-4b9a-a2b3-65720d6998fc?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/f6848856-a00c-4b9a-a2b3-65720d6998fc?width=397&amp;height=289" />
+      </media:content>
     </item>
     <item>
       <title>'Sylvia's sprookjesboek'</title>
@@ -352,6 +352,14 @@
       </media:content>
     </item>
     <item>
+      <title>Bezweken aan drank en druk</title>
+      <link>http://www.volkskrant.nl/recensies/-bezweken-aan-drank-en-druk~a4238565/</link>
+      <description>Femke van Wiggen schreef het tragische levensverhaal van de danseres Olga de Haas. Ze was een frêle, feeërieke verschijning. Een danseres die in de kleinste beweging emotie wist te leggen en zich volkomen vereenzelvigde met haar rollen. Als zij de stervende zwaan danste, stierf ze op het podium. Het publiek was verrukt van Olga de Haas, oogappel van danspedagoge Sonia Gaskell. Al op haar 19de was</description>
+      <pubDate>Sat, 06 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Aleid Truijens</author>
+      <guid isPermaLink="false">4238565</guid>
+    </item>
+    <item>
       <title>Met strepen kun je alle kanten op</title>
       <link>http://www.volkskrant.nl/boeken/met-strepen-kun-je-alle-kanten-op~a4239198/</link>
       <description>Ontwerpers houden van woorden doorstrepen. Niet altijd duidelijk waarom. Ergens een streep onder zetten, dat kan een opluchting zijn. Minder aangenaam is een streep door de rekening, terwijl een streep aan de balk juist een meevaller blijkt. Kortom, met strepen kun je alle kanten op - zoals ook ontwerpers van boekomslagen weten. Wat betekenen bijvoorbeeld die doorgestreepte woorden - en dat hertje</description>
@@ -363,39 +371,12 @@
       </media:content>
     </item>
     <item>
-      <title>Bezweken aan drank en druk</title>
-      <link>http://www.volkskrant.nl/recensies/-bezweken-aan-drank-en-druk~a4238565/</link>
-      <description>Femke van Wiggen schreef het tragische levensverhaal van de danseres Olga de Haas. Ze was een frêle, feeërieke verschijning. Een danseres die in de kleinste beweging emotie wist te leggen en zich volkomen vereenzelvigde met haar rollen. Als zij de stervende zwaan danste, stierf ze op het podium. Het publiek was verrukt van Olga de Haas, oogappel van danspedagoge Sonia Gaskell. Al op haar 19de was</description>
-      <pubDate>Sat, 06 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Aleid Truijens</author>
-      <guid isPermaLink="false">4238565</guid>
-    </item>
-    <item>
       <title>Verlangen naar het magische Westen</title>
       <link>http://www.volkskrant.nl/recensies/verlangen-naar-het-magische-westen~a4238559/</link>
       <description>De Marokkaanse taxichauffeur Soufjan, de hoofdpersoon uit De achterkant van de zon, de tweede roman van Maurits de Bruijn (1984), drinkt bier zoals hij dat mensen in de vele films die hij kijkt ziet doen. 'Het is net echt, al ontbreken de vertellingen en plotwendingen waar de levens in de films aan ten prooi vallen.' De film van Soufjans leven bestaat enkel uit 'tussenscènes': 'man drinkt bier', '</description>
       <pubDate>Sat, 06 Feb 2016 01:00:00 GMT</pubDate>
       <author>Bo Van Houwelingen</author>
       <guid isPermaLink="false">4238559</guid>
-    </item>
-    <item>
-      <title>Een schrijvende Greta Garbo</title>
-      <link>http://www.volkskrant.nl/recensies/een-schrijvende-greta-garbo~a4238560/</link>
-      <description>In De val gaat de Duitse schrijfster Melanie Raabe op de Stephen King-tour. Met één verschil: laat King in zijn magnifieke Misery een fan een schrijver gijzelen, in Die Falle is het een schrijfster die een prominente lezer vastzet. Schrijfster Linda Conrads woont al elf jaar in haar villa aan de Starnberger See, in de deelstaat Beieren. Ze heeft zich daar opgesloten na de moord op haar zus, waar z</description>
-      <pubDate>Sat, 06 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Rolf Bos</author>
-      <guid isPermaLink="false">4238560</guid>
-    </item>
-    <item>
-      <title>Vrouwen hebben de toekomst</title>
-      <link>http://www.volkskrant.nl/boeken/vrouwen-hebben-de-toekomst~a4238583/</link>
-      <description>De wereld zou er een stuk vriendelijker uitzien zonder de man, stelt Melvin Konner terecht. Toch doet hij de man - én de vrouw - ernstig tekort. Mannen zijn sukkels. Wie dat nog niet weet, hoeft maar een avondje tv-reclames te kijken. Ze zijn lui en apathisch, kunnen geen boodschappen doen, en friet bakken is ook te hoog gegrepen. Zet vier mannen in een kamer en het wordt een puinhoop. En mannen z</description>
-      <pubDate>Sat, 06 Feb 2016 01:00:00 GMT</pubDate>
-      <author>Door: Marcel Hulspas</author>
-      <guid isPermaLink="false">4238583</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/7393e1ef-ed7c-42f7-8b10-64a4ac9a86e9?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/7393e1ef-ed7c-42f7-8b10-64a4ac9a86e9?width=397&amp;height=289" />
-      </media:content>
     </item>
     <item>
       <title>Op expeditie door het lichaam</title>
@@ -407,6 +388,25 @@
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/82be6e5c-35a9-4ed3-8ca2-28108aebd28b?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/82be6e5c-35a9-4ed3-8ca2-28108aebd28b?width=397&amp;height=289" />
       </media:content>
+    </item>
+    <item>
+      <title>Olga de Haas was toch niet mesjokke?</title>
+      <link>http://www.volkskrant.nl/boeken/olga-de-haas-was-toch-niet-mesjokke~a4239190/</link>
+      <description>Rare zinnen leiden af, rake zinnen lichten op, stelt Arjan Peters vast aan de hand van twee nieuwe boeken; over danseres Olga de Haas en dichteres Ida Gerhardt. Rare zinnen kunnen afleiden, vooral als ze erbij staan alsof er niets aan de hand is. In Morgen dans ik weer van Femke van Wiggen, over de legendarische danseres Olga de Haas (1944-1978), stuitte ik er herhaaldelijk op. 'Moskou is alles wa</description>
+      <pubDate>Sat, 06 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Arjan Peters</author>
+      <guid isPermaLink="false">4239190</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/357a602e-30ee-494f-87ac-6eaa0faa75ef?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/357a602e-30ee-494f-87ac-6eaa0faa75ef?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Een schrijvende Greta Garbo</title>
+      <link>http://www.volkskrant.nl/recensies/een-schrijvende-greta-garbo~a4238560/</link>
+      <description>In De val gaat de Duitse schrijfster Melanie Raabe op de Stephen King-tour. Met één verschil: laat King in zijn magnifieke Misery een fan een schrijver gijzelen, in Die Falle is het een schrijfster die een prominente lezer vastzet. Schrijfster Linda Conrads woont al elf jaar in haar villa aan de Starnberger See, in de deelstaat Beieren. Ze heeft zich daar opgesloten na de moord op haar zus, waar z</description>
+      <pubDate>Sat, 06 Feb 2016 01:00:00 GMT</pubDate>
+      <author>Door: Rolf Bos</author>
+      <guid isPermaLink="false">4238560</guid>
     </item>
   </channel>
 </rss>

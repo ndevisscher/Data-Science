@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Tue, 16 Feb 2016 13:16:04 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Feb 2016 13:16:04 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 09:17:33 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 09:17:33 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl</url>
@@ -137,17 +137,6 @@
       </media:content>
     </item>
     <item>
-      <title>Tips Eurosonic/Noorderslag</title>
-      <link>http://www.volkskrant.nl/muziek/tips-eurosonic-noorderslag~a4223300/</link>
-      <description>De programmering op Eurosonic/Noorderslag is als vanouds superieur. V's poprecensenten kozen daaruit weer het beste. Eurosonic/Noorderslag kan niet passeren zonder spetterend garagerockbandje op het programma. Groningen is dankzij een paar enthousiaste platen- en podiumbazen de garagerockhoofdstad en bracht ons bandjes als het vies rockende maar hyperaanstekelijke Traumahelikopter. Nieuwe garageho</description>
-      <pubDate>Wed, 13 Jan 2016 01:00:00 GMT</pubDate>
-      <author>Door: Pablo Cabenda, Robert van Gijssel, Gijsbert Kamer, Menno Pot</author>
-      <guid isPermaLink="false">4223300</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/ce1ea85f-38c2-4502-8138-2c5eb21427bf?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/ce1ea85f-38c2-4502-8138-2c5eb21427bf?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Swingend Oostblok op Eurosonic/Noorderslag</title>
       <link>http://www.volkskrant.nl/muziek/swingend-oostblok-op-eurosonic-noorderslag~a4223343/</link>
       <description>Popmuziek in het voormalige Oostblok, waarop Eurosonic dit jaar focust, staat nog in kinderschoenen. Maar niet lang meer. De nieuwe plaat van Madonna of Kanye West? Die is het eerst verkrijgbaar in Roemenië. Maar helaas voor Madonna en Kanye West niet als keurige cd in een knisperend cellofaantje. In de voormalige Oostbloklanden verschijnen de nieuwe, grote popplaten vooral als geripte kopieën op</description>
@@ -156,6 +145,17 @@
       <guid isPermaLink="false">4223343</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/794ac8a6-ef7a-4e21-9648-0f88481a30f4?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/794ac8a6-ef7a-4e21-9648-0f88481a30f4?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Tips Eurosonic/Noorderslag</title>
+      <link>http://www.volkskrant.nl/muziek/tips-eurosonic-noorderslag~a4223300/</link>
+      <description>De programmering op Eurosonic/Noorderslag is als vanouds superieur. V's poprecensenten kozen daaruit weer het beste. Eurosonic/Noorderslag kan niet passeren zonder spetterend garagerockbandje op het programma. Groningen is dankzij een paar enthousiaste platen- en podiumbazen de garagerockhoofdstad en bracht ons bandjes als het vies rockende maar hyperaanstekelijke Traumahelikopter. Nieuwe garageho</description>
+      <pubDate>Wed, 13 Jan 2016 01:00:00 GMT</pubDate>
+      <author>Door: Pablo Cabenda, Robert van Gijssel, Gijsbert Kamer, Menno Pot</author>
+      <guid isPermaLink="false">4223300</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/ce1ea85f-38c2-4502-8138-2c5eb21427bf?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/ce1ea85f-38c2-4502-8138-2c5eb21427bf?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>

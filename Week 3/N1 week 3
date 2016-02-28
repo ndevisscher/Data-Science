@@ -1,0 +1,27 @@
+years = range(1880,  2011)
+
+pieces = []
+columns = ['name', 'sex', 'births']
+
+for year in years:
+    path = 'names/yob%d.txt' %year
+    frame = pd.read_csv(path, names=columns, engine='python')
+
+    frame['year'] = year
+    pieces.append(frame)
+
+# Concatenate everything into a single DataFrame
+names = pd.concat(pieces, ignore_index=True)
+total = names.loc[:,['name', 'sex', 'births']]
+
+table = pd.pivot_table(names, values='births', index=['name'],columns=['sex'], aggfunc=np.sum).sort_values('M',ascending=False)
+total_each_name = total.groupby('name').sum().sort_values('births',ascending=False )
+table = table.join(total_each_name)
+count_per_sex = total.groupby('sex').sum().sort_values('births',ascending=False )
+male = count_per_sex.iloc[0]['births']
+female = count_per_sex.iloc[1]['births']
+first = pd.DataFrame([[female, male,count_per_sex.sum()['births']]], columns=['F', 'M', 'births'])
+first.index.name = 'name'
+table = table.append(first).rename(index={0: 'All'}).sort_values('births',ascending=False).head()
+table = table.rename(columns = {'births':'all'})
+table.head()
